@@ -1,0 +1,1 @@
+print("I am looking forward to vacation over the summer")
